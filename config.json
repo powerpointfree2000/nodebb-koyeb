@@ -1,0 +1,8 @@
+{
+  "url": "https://skyline-forum.koyeb.app",
+  "port": 4567,
+  "database": "redis",
+  "redis": {
+    "url": "rediss://default:Aa6_AAIncDIwMTM0ZWMyZjQxZDk0ODdjYmEzMWU0MzA0Nzk2OTA3ZXAyNDQ3MzU@unified-parrot-44735.upstash.io:6379"
+  }
+}
